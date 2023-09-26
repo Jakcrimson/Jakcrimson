@@ -1,6 +1,6 @@
 ### Hello There 👋
 
-![](https://komarev.com/ghpvc/?username=Jakcrimson)
+![](https://komarev.com/ghpvc/?username=jakcrimson)
 <!--
 **Jakcrimson/Jakcrimson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
