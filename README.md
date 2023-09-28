@@ -9,3 +9,11 @@
 
 - 📫 How to reach me: linkedIn (https://www.linkedin.com/in/pierre-lague-479344195/) or my email : pierre.lague@protonmail.com
 - ⚡ Fun fact: I lived in the UK for 3 years, in NZ for a year and in scotland for 6 months.
+
+
+## 🚀 My Stats (will get bigger)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakcrimson&show_icons=true&theme=tokyonight)
+
+
+## 💻 My favorite languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakcrimson&theme=tokyonight)
