@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I lived in the UK for 3 years, in NZ for a year and in scotland for 6 months.
 
 
-## 🚀 My Stats (will get bigger)
+## 🚀 My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakcrimson&show_icons=true&theme=tokyonight)
 
 
