@@ -15,5 +15,5 @@
 ![GitHub stats](https://myreadme.vercel.app/api/embed/jakcrimson?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
 
-## 💻 My favorite languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jakcrimson&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+## 💻 Contribution Streaks
+![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=jakcrimson&theme=tokyonight)
