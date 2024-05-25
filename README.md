@@ -16,4 +16,4 @@
 
 
 ## 💻 My favorite languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakcrimson&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
