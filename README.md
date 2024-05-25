@@ -12,7 +12,7 @@
 
 
 ## 🚀 My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jakcrimson&show_icons=true&theme=tokyonight)
+![GitHub stats](https://myreadme.vercel.app/api/embed/jakcrimson?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
 
 ## 💻 My favorite languages
