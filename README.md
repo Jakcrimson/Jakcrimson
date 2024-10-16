@@ -9,5 +9,6 @@
 
 - 📫 How to reach me: linkedIn (https://www.linkedin.com/in/name-surname-479344195/) or my email : name.surname@protonmail.com
 
-## 💻 Contribution Streaks
-![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=jakcrimson&theme=tokyonight)
+[![Jakcrimson's GitHub | Stats](https://stats.quira.sh/Jakcrimson/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Jakcrimson)
+
+[![Jakcrimson's GitHub | Topics Over Time](https://stats.quira.sh/Jakcrimson/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Jakcrimson)
