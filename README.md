@@ -10,4 +10,4 @@
 
 📫 How to reach me: linkedIn (https://www.linkedin.com/in/name-surname-479344195/) or my email : name.surname@protonmail.com
 
-[![Jakcrimson's GitHub | Stats](https://stats.quira.sh/Jakcrimson/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Jakcrimson)
+[![Jakcrimson's GitHub | Stats](https://stats.quira.sh/Jakcrimson/github?theme=dark)]([https://quira.sh?utm_source=widgets&utm_campaign=Jakcrimson](https://github-readme-stats.vercel.app/api?username=jakcrimson&show_icons=true&theme=tokyonight))
